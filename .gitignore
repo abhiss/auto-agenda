@@ -1,0 +1,5 @@
+web-ui/node_modules/
+web-api/target
+web-ui/dist/
+/.vscode/
+.DS_Store
